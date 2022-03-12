@@ -1,4 +1,5 @@
 # html_keyboard
 keyboards in HTML
-/nhtml css 
-/nIn this code you can see beatiful design in HTML/CSS
+html css 
+In this code you can see beatiful design in HTML/CSS
+Behzod Musurmonqulov
